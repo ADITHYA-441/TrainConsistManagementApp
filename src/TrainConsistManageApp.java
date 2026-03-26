@@ -4,6 +4,7 @@ import java.util.List;
 public class TrainConsistManageApp {
     public static void main(String[] args) {
 
+
         System.out.println("=== Train Consist Management App ===");
 
 
@@ -38,6 +39,7 @@ public class TrainConsistManageApp {
 
         System.out.println("\nFinal bogie list:");
         System.out.println(trainConsist);
+
 
 
     }
